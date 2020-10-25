@@ -18,6 +18,7 @@ tl= raw_input ("Tempat Lahir: ")
 tgl= raw_input ("Tanggal Lahir: ")
 tlpn= raw_input ("Nomor Telepon: ")
 almt= raw_input ("Alamat Rumah: ")
+umur= raw_input ("Masukan umur kamu: ")
 
 
 #keluar nya input
@@ -27,4 +28,4 @@ print"===================="
 
 
 
-print"Hallo",nama,"Nama panggilan kamu",nama2,"NPM kamu adalah",NPM,"KAmu Lahir dari daerah",tl,"kamu lahir pada tanggal",tgl,"nommor telepon kamu adalah",tlpn,"alamat rumah kamu di daerah",almt
+print"Hallo",nama,"Nama panggilan kamu",nama2,"NPM kamu adalah",NPM,"KAmu Lahir dari daerah",tl,"kamu lahir pada tanggal",tgl,"umur ku sekarang adalah",umur,"nommor telepon kamu adalah",tlpn,"alamat rumah kamu di daerah",almt
